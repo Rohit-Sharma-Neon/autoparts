@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329075996498",
+    "project_id": "buy-and-bee",
+    "storage_bucket": "buy-and-bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329075996498:android:c2343238a5521cef8eac8b",
+        "android_client_info": {
+          "package_name": "com.invent.autoparts.autoparts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329075996498-69429grcrs9ib9pikaj8gueqvofmd2vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invent.autoparts.autoparts",
+            "certificate_hash": "230cc9a6a8099f7faadadc49bbf75076486efc7d"
+          }
+        },
+        {
+          "client_id": "329075996498-8cr7rqvb7l9cqlvh5nmd2jn5uped4his.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG8sAQkC0R95HJ3urYtZ0LD863t7ZxPfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329075996498-8cr7rqvb7l9cqlvh5nmd2jn5uped4his.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

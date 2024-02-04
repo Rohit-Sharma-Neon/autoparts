@@ -1,0 +1,55 @@
+//API Base URL's
+const String BASE_URL = 'http://3.20.147.34:3001/api/users/';
+const String baseImageUrl = 'http://3.20.147.34:3001';
+const String baseImageUrlOLd = 'http://3.20.147.34:3000';
+const String demoImageUrlOLd = 'https://via.placeholder.com/150';
+
+const String sendOtp = 'send-otp';
+const String verifyOtp = 'verify-otp';
+const String signup = 'signup';
+const String login = 'login';
+const String updatePassword = 'update_password';
+const String logout = 'logout';
+const String updateUserProfile = 'update-user-profile';
+const String becomeADealer = 'become-a-seller';
+const String getUserProfile = 'get-user-profile';
+const String changePassword = 'change_password';
+const String countryList = 'country_list';
+const String notificationList = 'get-notification';
+const String notificationRead = 'read-notification';
+const String notificationDelete = 'delete-notification';
+const String notificationUnread = 'unread-notification';
+const String interestList = 'interest_list';
+const String imageUpdate = 'image-update';
+const String categoryList = 'category_list';
+const String dashboard = 'guest-dashboard';
+const String dealerList = 'dealer_list';
+const String dealerDetailsApi = 'dealer_detail';
+const String productsListApi = 'products';
+const String addRemoveWishlist = 'add-remove-wishlist';
+const String sellerListApi = 'seller_list';
+const String sellerDetailApi = 'seller_detail';
+const String getWishlistApi = 'get-wishlist';
+const String partCategoryList = 'part_category_list';
+const String products = 'products';
+const String productsDetails = 'product-detail';
+const String carsApi = 'cars';
+const String staticPages = 'static-pages';
+const String carDetailApi = 'car-detail';
+const String getAllAdvertisement = 'getAllAdvertisements';
+const String carMakesApi = 'car_makes';
+const String carModelsApi = 'car_models';
+const String carSellAddress = 'sell_car';
+const String reviewRatings = 'review-list';
+const String addRemoveNotification = 'add-remove-notification';
+const String sellProduct = 'sell_product';
+const String userSellList = 'sell_list';
+const String updateSoldCarAddress = 'update_sell_car';
+const String updateSoldProductAddress = 'update_sell_product';
+const String markProductAsSold = 'change_sell_status';
+const String addReminder = 'add-reminder';
+const String reminderList = 'reminder-list';
+const String deleteReminder = 'delete-reminder';
+const String allCars = 'all-cars';
+
+

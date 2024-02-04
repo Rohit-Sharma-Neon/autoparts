@@ -1,0 +1,106 @@
+name: autoparts
+description: A new Auto Parts project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+  shared_preferences:
+  connectivity_plus:
+  http:
+  image_picker:
+  fluttertoast:
+  responsive_framework:
+  carousel_slider:
+  country_code_picker:
+  cached_network_image:
+  pin_code_fields:
+  flutter_staggered_grid_view:
+  flutter_typeahead:
+  flutter_rating_bar:
+  flutter_slidable:
+  flutter_switch:
+  webview_flutter:
+  provider:
+  url_launcher:
+  intl:
+  share_plus:
+  easy_localization: ^3.0.0
+  package_info_plus:
+  image_cropper:
+  location:
+  geocoding:
+  google_maps_flutter:
+  flutter_google_places:
+  flutter_polyline_points:
+  sign_in_with_apple:
+  google_sign_in:
+  flutter_facebook_auth:
+  twitter_login:
+  firebase_messaging:
+  firebase_core:
+  firebase_analytics:
+  firebase_storage:
+  cloud_firestore:
+  flutter_local_notifications:
+  lottie:
+  video_player:
+  shimmer:
+  flutter_html: ^2.2.1
+  awesome_notifications:
+  animate_do:
+  animations:
+  flutter_staggered_animations:
+  equatable:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  flutter_native_splash:
+  flutter_launcher_icons:
+
+flutter_icons:
+  image_path: "assets/appIcon/appLogo.png"
+  android: true
+  ios: true
+
+flutter_native_splash:
+  image: assets/images/buy_bee_logo.png
+  color: "5F5E66"
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/appLanguage/
+    - assets/images/
+    - assets/map_style.json
+    - assets/nointernet.json
+    - assets/no_data.json
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/Roboto/Roboto-Thin.ttf
+          weight: 100
+        - asset: assets/Roboto/Roboto-Light.ttf
+          weight: 300
+        - asset: assets/Roboto/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/Roboto/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/Roboto/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/Roboto/Roboto-Black.ttf
+          weight: 900
