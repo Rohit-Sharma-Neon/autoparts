@@ -294,9 +294,9 @@ Variant: debug
 Config: debug
 Store: /home/admin1/.android/debug.keystore
 Alias: AndroidDebugKey
-MD5: BA:E6:38:9C:D3:D8:52:1F:8B:F5:E4:3F:84:0D:52:CC
-SHA1: 23:0C:C9:A6:A8:09:9F:7F:AA:DA:DC:49:BB:F7:50:76:48:6E:FC:7D
-SHA-256: 93:EA:7A:B1:5C:A4:DB:AB:8E:62:8F:DC:FE:F2:70:E3:46:DB:49:1C:34:35:E2:5D:CF:07:4D:D8:F2:DE:A8:A7
+MD5: 
+SHA1:
+SHA-256: 
 */
-/// has key genrate url ===>  http://tomeko.net/online_tools/hex_to_base64.php
-// hash key =====  IwzJpqgJn3+q2txJu/dQdkhu/H0=
+/// has key genrate url ===>  
+// hash key =====  
