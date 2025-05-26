@@ -60,7 +60,7 @@
            android:value="@string/facebook_client_token"/>
        <meta-data
            android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyArqlT_3Q9fHcisw6lvvUGTcObXGz3Gwer" />
+           android:value="******************" />
        <activity
            android:name="com.yalantis.ucrop.UCropActivity"
            android:screenOrientation="portrait"
